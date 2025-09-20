@@ -1,5 +1,4 @@
 # Computer-Vision-based-Breast-cancer-detection-using-histopathology-images
-Breast cancer detection using histopathology images with ensemble deep learning models (DenseNet201, Xception, GoogLeNet), Grad-CAM visualization, and preprocessing.
 
 This project explores deep learning methods for **breast cancer detection** using histopathology images.  
 We use an ensemble of DenseNet201, Xception, and GoogLeNet to classify HER2 expression levels in breast cancer histopathology images, evaluated on H&E and IHC datasets.
